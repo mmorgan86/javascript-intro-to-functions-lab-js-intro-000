@@ -30,7 +30,10 @@ let sayHiToGrandma = (string) => {
 
 let sayHiToGrandma = (string) => {
   switch (string)
-  case string === string.toLowerCase() 
+  case string === string.toLowerCase()  
+    return "I can't hear you!"
+    break;
+  case
 }
 
 
