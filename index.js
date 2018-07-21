@@ -15,3 +15,13 @@ let logShout = (string) => {
 
 logShout
 
+let logWhisper = (string) => {
+  console.log(string.toLowerCase())
+}
+
+logWhisper
+
+
+
+
+
