@@ -21,6 +21,10 @@ let logWhisper = (string) => {
 
 logWhisper
 
+let sayHiToGrandma = (string) => {
+  return "I can't hear you!"
+}
+
 
 
 
