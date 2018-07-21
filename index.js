@@ -22,9 +22,9 @@ let logWhisper = (string) => {
 logWhisper
 
 let sayHiToGrandma = (string) => {
-  if (string === string.toLowerCase()) {
-    return "I can't hear you!"
-  }
+  // if (string === string.toLowerCase()) {
+  //   return "I can't hear you!"
+  // }
 }
 
 
