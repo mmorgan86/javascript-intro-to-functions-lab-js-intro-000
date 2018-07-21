@@ -42,6 +42,8 @@ let sayHiToGrandma = (string) => {
   }
 }
 
+sayHiToGrandma
+
 
 
 
