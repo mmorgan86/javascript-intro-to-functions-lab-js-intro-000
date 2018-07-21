@@ -28,6 +28,10 @@ let sayHiToGrandma = (string) => {
   
 }
 
+let sayHiToGrandma = (string) => {
+  switch (string)
+  case string === string.toLowerCase() 
+}
 
 
 
