@@ -21,12 +21,12 @@ let logWhisper = (string) => {
 
 logWhisper
 
-// let sayHiToGrandma = (string) => {
-//   if (string === string.toLowerCase()) {
-//     return "I can't hear you!"
-//   }
+let sayHiToGrandma = (string) => {
+  if (string === string.toLowerCase()) {
+    return "I can't hear you!"
+  }
   
-// }
+}
 
 let sayHiToGrandma = (string) => {
     switch (string) {
