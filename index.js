@@ -3,6 +3,6 @@ function shout(string) {
 }
 shout("Mike")
 
-let whisper = (string) => {
+function whisper (string) => {
   return string.toLowerCase()
 }
