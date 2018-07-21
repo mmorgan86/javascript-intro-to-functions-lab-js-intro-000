@@ -9,7 +9,7 @@ let whisper = (string) => {
 
 whisper
 
-let logShout = (string) {
+let logShout = (string) => {
   console.log(string.toUpperCase())
 }
 
