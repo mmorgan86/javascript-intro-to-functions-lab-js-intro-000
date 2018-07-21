@@ -24,6 +24,8 @@ logWhisper
 let sayHiToGrandma = (string) => {
   if (string === string.toLowerCase()) {
     return "I can't hear you!"
+  } elseif ((string === string.toLowerCase()) {
+    return "I can't hear you!"
   }
   
 }
