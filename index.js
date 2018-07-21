@@ -26,26 +26,26 @@ let sayHiToGrandma = (string) => {
       return "I can't hear you!"
   } else if (string === string.toUpperCase()) {
       return "YES INDEED!"
-  } else if (string === "I love you, Grandma." {
+  } else if (string === "I love you, Grandma.") {
       return "I love you, too."
-  }
+  };
 }
 
-let sayHiToGrandma = (string) => {
-    switch (string) {
-    case (string === string.toLowerCase()):  
-      return "I can't hear you!"
-      break;
-    case (string === string.toUpperCase()):
-      return "YES INDEED!"
-      break;
-    case (string === "I love you, Grandma."):
-      return "I love you, too."
-      break;
-  }
-}
+// let sayHiToGrandma = (string) => {
+//     switch (string) {
+//     case (string === string.toLowerCase()):  
+//       return "I can't hear you!"
+//       break;
+//     case (string === string.toUpperCase()):
+//       return "YES INDEED!"
+//       break;
+//     case (string === "I love you, Grandma."):
+//       return "I love you, too."
+//       break;
+//   }
+// }
 
-sayHiToGrandma
+// sayHiToGrandma
 
 
 
