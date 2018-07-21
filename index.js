@@ -36,8 +36,11 @@ let sayHiToGrandma = (string) => {
     case (string === string.toUpperCase()):
       return "YES INDEED!"
       break;
-    case (string === )
-    
+    case (string === "I love you, Grandma."):
+      return "I love you, too."
+      break;
+    default:
+      reutrn
   }
 }
 
